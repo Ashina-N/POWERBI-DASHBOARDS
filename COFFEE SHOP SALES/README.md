@@ -1,0 +1,1 @@
+This dashboard analyzes coffee shop sales by tracking metrics such as total revenue, product sales, and order quantity to understand overall business performance.It helps identify popular products, peak sales times, and customer purchasing patterns, enabling better inventory management and improved sales strategies.
